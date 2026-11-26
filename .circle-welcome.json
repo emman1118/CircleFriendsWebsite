@@ -1,0 +1,17 @@
+{
+  "slug": "media",
+  "documents": [
+    {
+      "data": { "alt": "Friends watching the sun set over the ocean", "welcome": true },
+      "file": { "source": "externalURL", "url": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1400&q=85", "name": "circle-together.jpg" }
+    },
+    {
+      "data": { "alt": "A golden afternoon by the sea", "welcome": true },
+      "file": { "source": "externalURL", "url": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=900&q=85", "name": "circle-weekends.jpg" }
+    },
+    {
+      "data": { "alt": "Friends gathered around a table sharing a meal", "welcome": true },
+      "file": { "source": "externalURL", "url": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=900&q=85", "name": "circle-everyday.jpg" }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "A private social hub for friends to share photos and videos, chat, manage profiles, and celebrate birthdays with an approval-based membership and group calendar.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
